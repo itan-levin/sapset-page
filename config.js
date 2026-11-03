@@ -2,7 +2,7 @@
 // Changing `method` renames the method everywhere on the page, including the
 // browser title and the BibTeX key.
 window.PAGE_CONFIG = {
-  method: "SAP3D",
+  method: "SAPset",
   titleRest: "Spatially Adaptive Personalization for Consistent 3D Generative Editing",
   authors: ["Itan Levin", "Guy Tevet", "Amit H. Bermano"],
   affiliation: "Tel Aviv University",
